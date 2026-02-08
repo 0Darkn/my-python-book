@@ -326,12 +326,3 @@ tensorflow / torch – Deep learning
 
 
 ---
- próximo passo posso:
-
-🔹 Converter isto num XML desdobrável (como nos teus projetos Flask)
-
-🔹 Criar páginas HTML tipo documentação
-
-🔹 Fazer uma lista só para Windows 10
-
-🔹 Ou ligar cada módulo a exemplos práticos em Python
