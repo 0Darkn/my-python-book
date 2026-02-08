@@ -1,6 +1,4 @@
 
----
-
 🐍 Biblioteca Padrão do Python (Standard Library)
 
 📁 Sistema, ficheiros e caminhos
@@ -322,7 +320,3 @@ matplotlib – Gráficos
 scikit-learn – Machine learning
 
 tensorflow / torch – Deep learning
-
-
-
----
